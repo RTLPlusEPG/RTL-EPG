@@ -1,5 +1,9 @@
-#EXTM3U 
-#EXTINF: -1 tvg-name="Toggo +" tvg-chno="115" tvg-logo="https://th.bing.com/th/id/OIP.cdVaP1Kcu9Uq2XoaLrw6WgHaEi?rs=1&pid=ImgDetMain" audio-track="https://origin-fra01.pzaz.tv/live/de-toggo-plus/tracks-v3a1/mono.m3u8?token=6681802-07cda640-d703-4e4e-b658-f09cd476150f" group-title="RTL+", Toggo Plus
-https://origin-fra01.pzaz.tv/live/de-toggo-plus/tracks-v3a1/mono.m3u8?token=6681802-07cda640-d703-4e4e-b658-f09cd476150f
-#EXTINF: -1 tvg-name="Super RTL" tvg-chno="15" tvg-logo="https://m3u-editor.com/storage/channel-logos/5cc521d0-ea8e-11ee-96b8-4b958cebef19/6455238/1118922111.png" audio-track="https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=fbea13b7c06b1214a5a33798ad42392d107310e4-544aafb67e75600cdd019afd596da77c-1711383052-1711372252" group-title="RTL+", Super RTL
-https://s6.hopslan.com/superx1/tracks-v1a1/mono.m3u8?token=fbea13b7c06b1214a5a33798ad42392d107310e4-544aafb67e75600cdd019afd596da77c-1711383052-1711372252
+#EXTM3U
+#EXTINF:-1 group-title="Entertainment",BBC ONE HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1 group-title="Entertainment",BBC TWO HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
+#EXTINF:-1 group-title="Entertainment",CBBC HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+#EXTINF:-1 group-title="Entertainment",CBEEBIES HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
